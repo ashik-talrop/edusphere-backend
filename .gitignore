@@ -1,0 +1,50 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.bak
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Virtual environment
+venv/
+.env/
+venv.bak/
+
+# Coverage
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+
+# pyenv
+.python-version
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# Django migrations
+migrations/
+
+# Static files
+/static/
+
+# Media files
+/media/
